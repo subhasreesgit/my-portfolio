@@ -33,7 +33,7 @@ section{
 }
 
 .heading{
-    font-size: 4rem;
+    font-size: 3.7rem;
     padding-bottom: 1rem;
     color: #3C493F;
     text-transform: uppercase;
@@ -162,7 +162,7 @@ header .follow a:hover{
 }
 
 .home .image{
-    flex: 1 1 40rem;
+    flex: 1 1 25rem;
 }
 
 .home .image img{
@@ -215,23 +215,23 @@ header .follow a:hover{
 .about .row-1 .image img{
     height: 100%;
     width: 100%;
+    border: 0.7rem solid #fff;
     object-fit: cover;
-    border: 1rem solid #fff;
     border-radius: .5rem;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
 }
 
 .about .row-1 .content{
-    flex: 1 1 50rem;
+    flex: 1 1 45rem;
 }
 
-.about .row-1 .content .h3{
-    font-size: 3.5rem;
+.about .row-1 .content h3{
+    font-size: 3rem;
     color: #3C493F;
 }
 
 .about .row-1 .content p{
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     color: #262730;
     padding: .5rem 0;
 }
